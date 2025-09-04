@@ -1,7 +1,7 @@
 # test-alquiler-video
 Este proyecto implementa una API REST para una tienda virtual de videos (venta-alquiler), construida con lenguaje Python y el Framework FastAPI. El objetivo es gestionar un catálogo de discos (películas o videos digitales) junto con las operaciones de registro de usuarios, ventas y alquiler.
 
-##Estructura del Proyecto
+## Estructura del Proyecto
 |--Main.py #Punto de entrada de la aplicación de la API, FastAPI
 |
   entidades/  #Directorio de paquetes que contiene todas las clases
