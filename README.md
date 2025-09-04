@@ -44,5 +44,5 @@ POST   /alquileres/   Registrar un alquiler
 * Uvicorn (Servidor ASGI)
 
 ## Proyecto desarrollado como casa de estudio
-* Nombre:
-* Github
+* Nombre: **Emely Moreno
+* Github: Morenrz
